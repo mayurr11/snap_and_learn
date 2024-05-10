@@ -1,0 +1,8 @@
+0 Dog
+1 Cat
+2 Tiger
+3 Lion
+4 Kangaroo
+5 Panda
+6 Penguin
+7 Elephant
