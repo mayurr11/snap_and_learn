@@ -22,7 +22,7 @@ Snap & Learn is a Flutter-based mobile application that recognizes animals from 
 Include screenshots of your app here to showcase key screens and features.
 
 ## Releases
-The latest APK can be downloaded from the [Releases](https://github.com/mayurr11/yourproject/releases) section of this repository. Each release includes download counts so you can track the number of times the APK has been downloaded.
+The latest APK can be downloaded from the [Releases](https://github.com/mayurr11/snap_and_learn/releases) section of this repository. Each release includes download counts so you can track the number of times the APK has been downloaded.
 
 ## Usage
 1. **Open the App** and capture or upload an image.
