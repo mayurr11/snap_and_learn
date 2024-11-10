@@ -50,10 +50,9 @@ Thank you for using **Snap & Learn**! If you enjoy this project, please star the
 ---
 
 <p align="center">
-  <img src="./assets/screenshot_1.jpg" width="25%" />
-  <img src="./assets/screenshot_2.jpg" width="25%" />
-  <img src="./assets/screenshot_3.jpg" width="25%" />
-  <img src="./assets/screenshot_4.jpg" width="25%" />
+  <img src="./assets/screenshot_1.jpg" width="33.33%" />
+  <img src="./assets/screenshot_2.jpg" width="33.33%" />
+  <img src="./assets/screenshot_3.jpg" width="33.33%" />
 </p>
 
 ## Features
@@ -80,7 +79,8 @@ Check out some of the app's features below:
 ---
 
 ## Acknowledgments
-- [**Animal Image Dataset**](https://www.abc.com/): Image dataset used for training the model.
+- [**Teachable Machine**](https://teachablemachine.withgoogle.com/): Used for training the animal recognition model with custom images.
+
 - [**TTS API**](https://www.text-to-speech-api.com/): Text-to-speech functionality.
 - [**Flutter**](https://flutter.dev/): Open-source framework for building beautiful and fast apps.
 
