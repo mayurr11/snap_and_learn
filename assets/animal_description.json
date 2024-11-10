@@ -1,0 +1,74 @@
+{
+  "Dog": {
+    "description": "Dogs are domesticated mammals, not natural wild animals. They were originally bred from wolves, and they have been bred by humans for a long time, with more than 300 different breeds.",
+    "habitat": "Homes, shelters, and farms. They adapt well to human living spaces and can thrive in a variety of environments.",
+    "diet": "Carnivores, but some breeds may also consume plants and grains. Dogs primarily eat meat, supplemented with vegetables and grains.",
+    "lifespan": "10-13 years, but some smaller breeds may live longer.",
+    "behavior": "Dogs are known for their loyalty, affection, and protectiveness. They can be trained to perform a variety of tasks and are often used as service animals.",
+    "physicalTraits": "Dogs come in various sizes, from tiny Chihuahuas to large breeds like Great Danes. They have fur, tails, and sharp teeth. Their physical traits vary significantly depending on the breed.",
+    "funFact": "Dogs have an extraordinary sense of smell and can be trained to detect certain diseases, such as cancer and diabetes."
+  },
+  "Cat": {
+    "description": "Cats are small, carnivorous mammals that are often kept as pets. They are known for their independent behavior, agility, and ability to hunt vermin.",
+    "habitat": "Homes, barns, and alleys. They are extremely adaptable and can thrive in both indoor and outdoor environments.",
+    "diet": "Obligate carnivores, meaning they need meat to survive. Cats primarily hunt small animals such as rodents and birds.",
+    "lifespan": "12-16 years, although many cats live well into their 20s with proper care.",
+    "behavior": "Cats are generally independent, but they form strong bonds with their human companions. They communicate through body language and vocalizations like meowing and purring.",
+    "physicalTraits": "Cats have sleek bodies, sharp claws, and keen senses. Their fur colors and patterns vary widely, and they often have a long tail.",
+    "funFact": "Cats can rotate their ears 180 degrees and have a remarkable ability to land on their feet if they fall from a height."
+  },
+  "Tiger": {
+    "description": "Tigers are the largest species of cat and are known for their strength, agility, and distinctive orange coats with black stripes.",
+    "habitat": "Tigers are typically found in forests, grasslands, and tropical rainforests. They thrive in areas with dense vegetation and access to water.",
+    "diet": "Carnivores. Tigers hunt large animals like deer, wild boar, and even elephants. They are apex predators in their ecosystems.",
+    "lifespan": "10-15 years in the wild, though they can live longer in captivity.",
+    "behavior": "Tigers are solitary animals. They are known for their stealth and powerful hunting abilities. They use their sharp claws and teeth to subdue prey.",
+    "physicalTraits": "Tigers are large, muscular cats with a strong build. They have orange fur with black stripes, and their eyes are usually yellow or green.",
+    "funFact": "Tigers are excellent swimmers and are known to swim across rivers and lakes to hunt or escape danger."
+  },
+  "Lion": {
+    "description": "Lions are large carnivorous mammals that are social and live in groups called prides. They are often called the 'king of the jungle' because of their majestic appearance and leadership qualities.",
+    "habitat": "Lions live primarily in grasslands, savannas, and open woodlands in Africa, with a small population found in the Gir Forest of India.",
+    "diet": "Carnivores. Lions hunt in groups and prey on large animals like zebras, antelope, and buffalo.",
+    "lifespan": "10-14 years in the wild, but they can live longer in captivity.",
+    "behavior": "Lions are social animals, living in prides consisting of related females, their offspring, and a few males. Males often take on the role of protecting the pride.",
+    "physicalTraits": "Lions are large, muscular animals with a golden-brown coat and a distinctive mane in males. Their mane darkens with age and may indicate their strength.",
+    "funFact": "Male lions are the only cats with a mane, which is thought to protect their neck during fights and is a sign of their strength and maturity."
+  },
+  "Elephant": {
+    "description": "Elephants are the largest land mammals. They are known for their intelligence, strong social bonds, and distinctive trunk used for feeding, drinking, and communication.",
+    "habitat": "Elephants live in grasslands, forests, and savannas. They are found in Africa and Asia.",
+    "diet": "Herbivores. Elephants feed on grasses, fruits, tree bark, and shrubs. They require a large amount of food daily.",
+    "lifespan": "60-70 years in the wild.",
+    "behavior": "Elephants are highly social animals, living in tight-knit herds led by a matriarch. They are known for their empathy and mourning rituals when a member of their herd dies.",
+    "physicalTraits": "Elephants are characterized by their massive size, large ears, and long trunks. African elephants have larger ears than their Asian counterparts.",
+    "funFact": "Elephants have an incredible memory and can recognize individual humans and animals after many years."
+  },
+  "Kangaroo": {
+    "description": "Kangaroos are marsupial mammals native to Australia, famous for their powerful hind legs and ability to leap great distances.",
+    "habitat": "Kangaroos are found in a variety of habitats in Australia, including forests, grasslands, and deserts.",
+    "diet": "Herbivores. They primarily feed on grasses, leaves, and shrubs.",
+    "lifespan": "6-8 years in the wild.",
+    "behavior": "Kangaroos are social animals that live in groups called mobs. They are herbivores and spend much of their time grazing.",
+    "physicalTraits": "Kangaroos have strong hind legs that enable them to hop at high speeds. They also have a long, muscular tail used for balance.",
+    "funFact": "Kangaroos can leap over 3 meters in a single bound, and their large tails help them maintain balance while hopping."
+  },
+  "Penguin": {
+    "description": "Penguins are flightless birds that are well-adapted for life in the water. They are known for their distinctive black and white plumage and their inability to fly.",
+    "habitat": "Penguins are found in the Southern Hemisphere, particularly in Antarctica, but also in temperate climates like the Galápagos Islands.",
+    "diet": "Carnivores. Penguins feed on fish, krill, and other marine creatures.",
+    "lifespan": "15-20 years in the wild.",
+    "behavior": "Penguins are social birds that live in large colonies. They are excellent swimmers and dive deep into the water to catch food.",
+    "physicalTraits": "Penguins have a streamlined body shape, short wings that are adapted into flippers for swimming, and black and white plumage.",
+    "funFact": "Penguins are excellent swimmers and can dive to depths of over 500 meters to catch prey."
+  },
+  "Panda": {
+    "description": "Pandas are large, herbivorous bears native to China. They are known for their distinctive black-and-white fur and their diet primarily consisting of bamboo.",
+    "habitat": "Pandas are found in the mountain ranges of central China, particularly in forests that are rich in bamboo.",
+    "diet": "Herbivores. Pandas primarily eat bamboo, though they may occasionally eat other plants or small animals.",
+    "lifespan": "20-30 years in the wild, though they can live longer in captivity.",
+    "behavior": "Pandas are solitary animals. They spend most of their time eating and resting, and they are known for their calm demeanor.",
+    "physicalTraits": "Pandas are large, stocky bears with black-and-white fur. They have round faces and large paws that are adapted to gripping bamboo.",
+    "funFact": "Despite being classified as carnivores, pandas' diet consists almost entirely of bamboo, and they have a specialized wrist bone that functions as an opposable thumb to grasp bamboo."
+  }
+}

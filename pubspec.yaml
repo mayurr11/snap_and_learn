@@ -46,6 +46,7 @@ dev_dependencies:
   flutter_lints: ^2.0.0
   image_picker: ^0.8.9
   flutter_tflite: ^1.0.1
+  flutter_tts: ^3.5.4 
 
 
 flutter_launcher_icons:
@@ -80,11 +81,7 @@ flutter:
     - assets/upload.jpg
     - assets/model_unquant.tflite
     - assets/labels.txt
-    - assets/ic_launcher.png
-    - assets/cartoon_images/cartoon_dog_1.jpg
-    - assets/cartoon_images/cartoon_dog_2.jpg
-    - assets/cartoon_images/cartoon_dog_3.jpg
-    
+    - assets/animal_description.json
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
