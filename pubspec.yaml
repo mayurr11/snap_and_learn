@@ -78,7 +78,7 @@ flutter:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
   assets:
-    - assets/upload.jpg
+    - assets/ic_launcher.png
     - assets/model_unquant.tflite
     - assets/labels.txt
     - assets/animal_description.json
@@ -108,3 +108,4 @@ flutter_icons:
   android: true
   ios: true
   image_path: "assets/ic_launcher.png"
+  remove_alpha_ios: true

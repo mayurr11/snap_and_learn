@@ -368,7 +368,8 @@ class _AnimalInfoScreenState extends State<AnimalInfoScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Row(
-              crossAxisAlignment: CrossAxisAlignment.start,
+              crossAxisAlignment: CrossAxisAlignment
+                  .center, // Center the content vertically in the Row
               children: [
                 Container(
                   padding: EdgeInsets.all(5), // Padding around the image
@@ -385,8 +386,8 @@ class _AnimalInfoScreenState extends State<AnimalInfoScreen> {
                         10), // Rounded corners for the image
                     child: Image.file(
                       widget.image,
-                      height: 120,
-                      width: 120,
+                      height: 100,
+                      width: 100,
                       fit: BoxFit.cover,
                     ),
                   ),
