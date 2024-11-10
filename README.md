@@ -50,9 +50,9 @@ Thank you for using **Snap & Learn**! If you enjoy this project, please star the
 ---
 
 <p align="center">
-  <img src="./assets/screenshot_1.jpg" width="33.33%" />
-  <img src="./assets/screenshot_2.jpg" width="33.33%" />
-  <img src="./assets/screenshot_3.jpg" width="33.33%" />
+  <img src="./assets/screenshot_1.jpg" width="30%" />
+  <img src="./assets/screenshot_2.jpg" width="30%" />
+  <img src="./assets/screenshot_3.jpg" width="30%" />
 </p>
 
 ## Features
