@@ -1,43 +1,82 @@
-# Miscellaneous
-*.class
-*.log
-*.pyc
-*.swp
-.DS_Store
-.atom/
-.buildlog/
-.history
-.svn/
-migrate_working_dir/
+# Dart & Flutter specific
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+build/
 
-# IntelliJ related
+# Flutter build outputs for each platform
+android/app/build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/engine/
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/Generated.xcconfig
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Runner/GeneratedPluginRegistrant.*  
+macos/Flutter/ephemeral/
+macos/build/
+linux/build/
+windows/build/
+web/.dart_tool/
+web/flutter_export_environment.sh
+web/generated_plugin_registrant.dart
+web/main.dart.js.deps
+
+# Android-specific
+android/.gradle/
+android/local.properties  # Contains system-specific paths to the Android SDK
+android/app/debug/
+android/app/profile/
+android/.idea/
+
+# iOS-specific
+*.xcworkspace
+*.xcodeproj
+ios/.symlinks/
+ios/Flutter/.last_build_id
+
+# macOS-specific
+macos/Flutter/ephemeral/
+
+# Linux-specific
+linux/flutter/generated_plugin_registrant.cc
+linux/flutter/ephemeral/
+
+# Windows-specific
+windows/flutter/generated_plugin_registrant.cc
+windows/flutter/ephemeral/
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ and Android Studio
 *.iml
 *.ipr
 *.iws
 .idea/
 
-# The .vscode folder contains launch configuration and tasks you configure in
-# VS Code which you may wish to be included in version control, so this line
-# is commented out by default.
-#.vscode/
+# Temporary and generated files
+*.lock
+*.log
+*.class
+*.pyc
+*.swp
+.metadata
+.DS_Store
+.pdb
+.dll
+.dylib
+.so
 
-# Flutter/Dart/Pub related
-**/doc/api/
-**/ios/Flutter/.last_build_id
-.dart_tool/
-.flutter-plugins
-.flutter-plugins-dependencies
+# Package-related
 .pub-cache/
 .pub/
-/build/
 
-# Symbolication related
-app.*.symbols
-
-# Obfuscation related
-app.*.map.json
-
-# Android Studio will place build artifacts here
-/android/app/debug
-/android/app/profile
-/android/app/release
+# Other
+migrate_working_dir/
+history/
+buildlog/
+atom/
